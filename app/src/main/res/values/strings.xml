@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kotlin Sub-2 Ara</string>
+    <string name="author">KOSWARA - ARA</string>
+    <string name="club_name">Club name</string>
+    <string name="league_name">Champions League</string>
+    <string name="dummy_score">0 : 0</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="red_card">Red Card</string>
+    <string name="shots">Shots</string>
+    <string name="goal">Goal</string>
+    <string name="lineup">Lineup</string>
+    <string name="keeper">Goal Keeper</string>
+    <string name="defence">Defence</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="sub">Substitute</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="remove_from_favorite">Remove from favorite</string>
+    <array name="menu">
+        <item>Last Match</item>
+        <item>Next Match</item>
+        <item>Favorite</item>
+    </array>
+</resources>
